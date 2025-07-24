@@ -26,7 +26,9 @@ This project includes comprehensive learning materials designed for both visual 
 - **💻 Production Code**: Full working implementation demonstrating enterprise patterns
 - **🔧 Hands-On Examples**: Real-world scenarios and complex page generation demonstrations
 
-The **audio course** provides an in-depth walkthrough of each module, making it perfect for developers who prefer to learn while commuting, exercising, or working on other tasks. Each module builds upon the previous, ensuring a comprehensive understanding of clean architecture principles in Python.
+The **audio course** provides an in-depth walkthrough of each module, making it perfect for developers who prefer to learn while commuting, exercising, or working on other tasks. Each module builds upon the previous, ensuring a comprehensive understanding of clean architecture principles in Python. 
+
+You can access this course in [Assets](./Assets/AgenticPlaywrightTestGeneration.mp3)
 
 ### 🎯 Project Goals
 
