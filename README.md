@@ -434,6 +434,16 @@ graph TB
 - **AI Service**: OpenAI integration with template management
 - **Configuration System**: Environment-based configuration with validation
 
+## AI Technologies & Integration
+
+- **OpenAI GPT Models** - Core language models (GPT-3.5-turbo, GPT-4) for intelligent code generation
+- **Microsoft Semantic Kernel** - Enterprise AI orchestration framework for managing AI workflows and prompt templates  
+- **Generative AI** - Large language model technology for automated code synthesis from natural language descriptions
+- **Prompt Engineering** - Sophisticated prompt design patterns for consistent, high-quality Playwright code output
+- **AI Agents** - Autonomous code generation agents with retry logic, error handling, and context management
+- **Natural Language Processing** - Markdown parsing and interpretation for converting page descriptions into structured code
+- **AI Code Generation** - Automated transformation of business requirements into production-ready Page Object Models
+
 ---
 
 ## Course Modules
