@@ -19,7 +19,7 @@ The **Production-Grade Playwright Test Generation System** is a sophisticated AI
 
 You can access the Jupyter workbook [here](./AgenticPlaywrightTestGeneration.ipynb).
 
-### 🎧 **Complete Learning Experience**
+### 🎧 **Complete Learning Experience** (49:31)
 
 This project includes comprehensive learning materials designed for both visual and auditory learners:
 
