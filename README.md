@@ -443,6 +443,7 @@ graph TB
 - **AI Agents** - Autonomous code generation agents with retry logic, error handling, and context management
 - **Natural Language Processing** - Markdown parsing and interpretation for converting page descriptions into structured code
 - **AI Code Generation** - Automated transformation of business requirements into production-ready Page Object Models
+- **Google Gemini** - Used for audio course generation.
 
 ---
 
