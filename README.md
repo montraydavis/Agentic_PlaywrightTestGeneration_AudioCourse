@@ -17,6 +17,8 @@
 
 The **Production-Grade Playwright Test Generation System** is a sophisticated AI-powered solution that automatically generates high-quality Playwright Page Object Model classes from markdown page descriptions. Built with clean architecture principles and modern async patterns, this system provides a professional-grade foundation for automated test generation in enterprise environments.
 
+You can access the Jupyter workbook [here](./AgenticPlaywrightTestGeneration.ipynb).
+
 ### 🎧 **Complete Learning Experience**
 
 This project includes comprehensive learning materials designed for both visual and auditory learners:
